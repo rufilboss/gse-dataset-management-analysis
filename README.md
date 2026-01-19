@@ -220,4 +220,4 @@ To test the program with different scenarios:
 
 ## License
 
-See LICENSE file for details.
+See [LICENSE](LICENSE) file for details.
