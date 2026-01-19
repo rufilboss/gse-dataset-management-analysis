@@ -5,6 +5,7 @@ A Python program that reads numerical and categorical data from CSV files, perfo
 ## Overview
 
 This project demonstrates fundamental Python programming concepts including:
+
 - Variables and File Handling
 - Error Handling
 - Functions
@@ -17,6 +18,7 @@ This project demonstrates fundamental Python programming concepts including:
 ## Features
 
 ### 1. Numerical Data Analysis
+
 - Reads numerical data from a CSV file
 - Calculates statistical measures:
   - **Total**: Sum of all values
@@ -25,20 +27,24 @@ This project demonstrates fundamental Python programming concepts including:
   - **Maximum**: Largest value
 
 ### 2. Categorical Data Analysis
+
 - Extracts unique categories from a CSV file using sets
 - Displays the total count of unique categories
 
 ### 3. Performance Evaluation
+
 - Compares average value against a threshold
 - Displays "High Performance" if average exceeds threshold
 - Displays "Needs Improvement" if average is below threshold
 
 ### 4. Error Handling
+
 - Handles missing files gracefully
 - Validates empty files
 - Checks for invalid (non-numeric) data
 
 ### 5. Report Generation
+
 - Saves all statistics and analysis results to a text file
 
 ## Files
