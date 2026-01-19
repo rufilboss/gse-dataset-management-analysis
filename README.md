@@ -156,19 +156,23 @@ Unique categories: ['Biology', 'Chemistry', 'Mathematics', 'Physics']
 ## Concepts Demonstrated
 
 ### 1. Variables & File Handling
+
 - Reading data from CSV files
 - Storing data in lists and sets
 
 ### 2. Error Handling
+
 - `try-except` blocks for file operations
 - Handling `FileNotFoundError` for missing files
 - Handling `ValueError` for invalid data
 
 ### 3. Functions
+
 - Separate functions for each calculation
 - Functions take dataset as input and return results
 
 ### 4. Operators & Loops
+
 - Arithmetic operators: `+`, `-`, `*`, `/`
 - Comparison operators: `<`, `>`
 - `for` loops to traverse datasets
@@ -178,19 +182,23 @@ Unique categories: ['Biology', 'Chemistry', 'Mathematics', 'Physics']
   - Counting data points (average calculation)
 
 ### 5. Conditional Statements
+
 - `if-else` statements for performance evaluation
 - Comparison of average against threshold
 
 ### 6. Sets
+
 - Using Python `set` to store unique categories
 - Automatic handling of duplicates
 
 ### 7. Object-Oriented Programming
+
 - `DataSet` class with methods
 - Object instantiation and method calls
 - Encapsulation of data and methods
 
 ### 8. File Output
+
 - Writing results to a text file
 - Formatted report generation
 
