@@ -1,0 +1,22 @@
+==================================================
+DATASET ANALYSIS REPORT
+==================================================
+
+NUMERICAL DATA STATISTICS
+--------------------------------------------------
+Data file: student_marks.csv
+Total data points: 15
+Total: 1282.0
+Average: 85.47
+Minimum: 73.0
+Maximum: 95.0
+
+Performance: High Performance
+(Average 85.47 is above threshold 85)
+
+CATEGORICAL DATA ANALYSIS
+--------------------------------------------------
+Categories file: courses.csv
+Total unique categories: 4
+Unique categories: Biology, Chemistry, Mathematics, Physics
+==================================================
