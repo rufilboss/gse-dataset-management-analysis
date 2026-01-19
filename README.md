@@ -65,6 +65,7 @@ This project demonstrates fundamental Python programming concepts including:
 1. Make sure you have the data files (`student_marks.csv` and `courses.csv`) in the same directory.
 
 2. Run the program:
+
    ```bash
    python dataset_analysis.py
    ```
@@ -92,14 +93,16 @@ dataset = DataSet(
 ### Using Your Own Data Files
 
 1. Create a CSV file with numerical data (one value per line):
-   ```
+
+   ```sh
    85
    92
    78
    ```
 
 2. Create a CSV file with categorical data (one category per line):
-   ```
+
+   ```sh
    Category1
    Category2
    Category1
@@ -126,7 +129,7 @@ The `DataSet` class contains the following methods:
 
 ## Example Output
 
-```
+```sh
 Successfully loaded 15 data points
 Successfully loaded 4 unique categories
 
